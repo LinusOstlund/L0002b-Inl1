@@ -1,0 +1,12 @@
+E:\Documents\KTH\Linus\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.AssemblyInfoInputs.cache
+E:\Documents\KTH\Linus\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.AssemblyInfo.cs
+E:\Documents\KTH\Linus\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.csproj.CoreCompileInputs.cache
+E:\Documents\KTH\Linus\Inlamning1\Inlamning1\bin\Debug\netcoreapp3.1\Inlamning1.exe
+E:\Documents\KTH\Linus\Inlamning1\Inlamning1\bin\Debug\netcoreapp3.1\Inlamning1.deps.json
+E:\Documents\KTH\Linus\Inlamning1\Inlamning1\bin\Debug\netcoreapp3.1\Inlamning1.runtimeconfig.json
+E:\Documents\KTH\Linus\Inlamning1\Inlamning1\bin\Debug\netcoreapp3.1\Inlamning1.runtimeconfig.dev.json
+E:\Documents\KTH\Linus\Inlamning1\Inlamning1\bin\Debug\netcoreapp3.1\Inlamning1.dll
+E:\Documents\KTH\Linus\Inlamning1\Inlamning1\bin\Debug\netcoreapp3.1\Inlamning1.pdb
+E:\Documents\KTH\Linus\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.dll
+E:\Documents\KTH\Linus\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.pdb
+E:\Documents\KTH\Linus\Inlamning1\Inlamning1\obj\Debug\netcoreapp3.1\Inlamning1.genruntimeconfig.cache
